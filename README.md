@@ -1,5 +1,16 @@
-﻿# Proyecto de Aprendizaje.
- ## _HTML-CSS._
+# Portfolio ¡Hola, bienvenido a mi proyecto de portafolio!
 
->Este proyecto se trata sobre el aprendizaje de lenguaje de marcado **(HTML)** y el lenguaje de diseño **(CSS)**.
->El conocimiento donde inicio este curso es desde como se estructura el DOM para una pagina web, pasando por las conexiones del documento HTML y CSS , hasta las distintas formas de hacer la misma pagina responsiva, ya sea las imagenes, los bordes, encabezados etc. Finalizando con el aprendizaje de los media queries para abarcar la mayoria del contenido fundamental para el armado de una pagina web y su diseño. 
+![imagen](https://cdn1.gnarususercontent.com.br/6/450324/9facae6f-79bf-48f3-b3a9-b4f9284802d7.png)  
+## Herramientas utilizadas:
+
+* HTML
+
+* CSS
+
+* Flex-box
+
+## Hecho por:
+
+### Franco Romero
+
+### Linkedin: https://www.linkedin.com/school/aluracursos/
